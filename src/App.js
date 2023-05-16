@@ -1,5 +1,5 @@
 import React, {useState, } from "react"
-import logo from './logo.svg';
+
 import './App.css';
 
 import "bootstrap/dist/css/bootstrap.min.css"
@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import {BrowserRouter as Router, Routes, Route, Link, Switch} from "react-router-dom"
 
 //toast 
-import {ToastContainer, toast} from "react-toastify"
+import {ToastContainer} from "react-toastify"
 import "react-toastify/dist/ReactToastify.min.css"
 
 //firebase

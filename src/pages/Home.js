@@ -7,8 +7,7 @@ import {
   Col,
   Input,
   Button,
-  InputGroup,
-  InputGroupAddon
+  InputGroup
 } from "reactstrap";
 
 import UserCard from "../components/UserCard";
