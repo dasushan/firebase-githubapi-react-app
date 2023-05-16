@@ -21,7 +21,7 @@ const Repos = ({repos_url}) => {
 
     useEffect(() => {
         fetchRepos()
-    }, [])
+    })
 
     return(
         <ListGroup>
