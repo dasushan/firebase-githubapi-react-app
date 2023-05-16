@@ -5,7 +5,7 @@ import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css"
 
 //react-router
-import {BrowserRouter as Router, Routes, Route, Link, Switch} from "react-router-dom"
+import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
 
 //toast 
 import {ToastContainer} from "react-toastify"
