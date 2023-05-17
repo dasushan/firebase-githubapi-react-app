@@ -26,7 +26,7 @@ import Header from "./layout/Header"
 //Context
 import {UserContext} from "./context/UserContext"
 
-import firebaseConfig from "./Config/firebaseConfig"
+import {firebaseConfig} from "./Config/firebaseConfig"
 //initialize firebase
  firebase.initializeApp(firebaseConfig)
 
