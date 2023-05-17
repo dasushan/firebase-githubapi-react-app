@@ -1,4 +1,4 @@
-export default {
+export  const firebaseConfig = {
     apiKey: "AIzaSyAwfhcnxKNictyTZmSB9CEQKIufY4_NxMw",
     authDomain: "mygitapp-bc85c.firebaseapp.com",
     projectId: "mygitapp-bc85c",
